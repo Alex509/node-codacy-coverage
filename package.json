@@ -1,6 +1,6 @@
 {
   "name": "codacy-coverage",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Code Coverage reporter for Codacy.com",
   "keywords": [
     "codacy",
@@ -34,6 +34,7 @@
     "lcov-parse": "0.x",
     "lodash": "^4.17.4",
     "log-driver": "^1.x",
+    "nsp": "2.8.1",
     "request-promise": "^0.x"
   },
   "devDependencies": {
